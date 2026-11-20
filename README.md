@@ -7,5 +7,6 @@
  Keep the fictional counts as provided for the first test.
 5. -[x] Explain why `registered = registered + 2` does not refresh an earlier calculated value by itself.
 
-Knowing Javascript's reads vertically was a big help. [^1]
+Great Lesson [^1]
+Knowing Javascript's reads vertically was a big help.
 [^1] Footnote
