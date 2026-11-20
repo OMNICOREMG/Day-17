@@ -8,5 +8,6 @@
 5. -[x] Explain why `registered = registered + 2` does not refresh an earlier calculated value by itself.
 
 Great Lesson [^1]
+
+[^1]: Footnote 
 Knowing Javascript's reads vertically was a big help.
-[^1]: Footnote
