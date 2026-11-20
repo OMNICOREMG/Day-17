@@ -9,5 +9,4 @@
 
 Great Lesson [^1]
 
-[^1]: Footnote 
-Knowing Javascript's reads vertically was a big help.
+[^1]: Knowing Javascript's reads vertically was a big help.
