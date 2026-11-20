@@ -9,4 +9,4 @@
 
 Great Lesson [^1]
 Knowing Javascript's reads vertically was a big help.
-[^1] Footnote
+[^1]: Footnote
